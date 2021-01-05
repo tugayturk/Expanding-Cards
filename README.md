@@ -1,2 +1,2 @@
-# Expending-Cards
-Expending Cards CSS Project
+# Expanding-Cards
+Expanding Cards CSS Project
